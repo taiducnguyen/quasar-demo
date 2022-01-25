@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1 class="title">Measure page quality</h1>
+    <h1 class="title">Quasar framework- Measure page quality</h1>
 
     <p class="description">
       Test your pages in a lab environment powered by PageSpeed Insights. Then
